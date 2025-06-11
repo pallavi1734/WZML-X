@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7932285992:AAGF2STulzb2SeCl5D6nOtaKQxfNJDXkdSc"
+OWNER_ID = 943270135
+TELEGRAM_API = 28983177
+TELEGRAM_HASH = "a0da2f0c10923e1c080fd86ab4c04051"
+DATABASE_URL = "mongodb+srv://Loveflopsbot:lovelo23@loveflopsbot.wrqsckt.mongodb.net/?retryWrites=true&w=majority"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "MITSURII"
+AUTHOR_URL = "https://t.me/@Newbeevjdfgkbot"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -97,19 +97,19 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GD_DESP = "Uploaded with THECIDANIME Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
 
 # YT Tools
-YT_DESP = "Uploaded to YouTube by WZML-X bot"
+YT_DESP = "Uploaded to YouTube by THECIDANIME bot"
 YT_TAGS = ["telegram", "bot", "youtube"]  # or as a comma-separated string
 YT_CATEGORY_ID = 22
 YT_PRIVACY_STATUS = "unlisted"
